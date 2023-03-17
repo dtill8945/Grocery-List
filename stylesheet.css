@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+h2 {
+    width: 500px;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+.pantryItems {
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(194, 194, 194);
+    width: 200px;
+    height: 200px;
+
+}
+
+.groceryStore {
+    width: 200px;
+    height: 200px;
+}
+
+h2 {
+    background-color: rgb(158, 118, 243);
+}
+
+.container {
+    display: flex;
+}
+
+html {
+    background-color: blanchedalmond;
+}
